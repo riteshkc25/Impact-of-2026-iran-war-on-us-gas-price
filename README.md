@@ -5,3 +5,6 @@
 3. The dates used in this analysis were from Jan 1, 2024 to July 23, 2026. For some dates, Wayback machine was not able to find any snapshot. In those cases, linear interpolation was used to estimate the price.
 4. To make sure the scraped data is correct, GitHub repo (lykmapipo/US-Gas-Prices) was used for comparison for few dates. 
 5. The scraped data were cleaned and transformed in python. For example,  handling time formatting, converting price fields to numeric, adding US regions to each state, and reshaping the dataset into a long format for better tableau analysis.
+
+(~/Desktop/projects/oil_price/aaa_gasprice_tableau_image.pdf)
+[Tableau Link](https://public.tableau.com/app/profile/ritesh.kc/viz/aaa_oilprice_analysis/Dashboard2)
